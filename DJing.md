@@ -1,5 +1,11 @@
 # DJing
 
+## Introduction
+
+* 2 Decks
+* Mixer
+* Headphones
+
 ## Hardware
 
 * Vinyl
@@ -8,13 +14,21 @@
 
 ## Software
 
+* Ableton
+* Djay by Algoriddim
 * Serato
 * Traktor
-* DJAY 4
+* Virtual DJ
 
 # Music Production
 
 ## Hardware
 
+### Novation
+* Launchpad
+* Launchkey
+
 ## Software
+
+* iPad Software
 
