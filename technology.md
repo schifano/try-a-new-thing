@@ -89,6 +89,20 @@ Videos from past conferences:
 * Hackcon III
 * Hackcon IV
 
-### Hackathon Hackers Facebook Group
+# Studies
 
+## Majors
 
+* Computer Science
+* Electrical Engineering
+* Mechanical Engineering
+* Security
+
+## Courses
+
+If you have a degree already or are not ready to pursue a full degree in a technical field, you can supplement your education by taking online courses for experience and portfolio building, or as an introduction to a field you might be interested in.
+
+* Codecademy - 
+* Udacity - 
+* Udemy - 
+* Stanford Online - 
