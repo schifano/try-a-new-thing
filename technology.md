@@ -14,14 +14,12 @@ This is a work in progress document for people pursuing a career or interest in 
 
 ## Jobs
 
-* [Getting A Gig](https://github.com/cassidoo/getting-a-gig)
-* [Cracking The Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850)
-* Women Who Choose Computer Science – What Really Matters (Google Research) - One of my favorite research articles highlighting factors that may potentially contribute to the lack of women in CS / STEM in general. Very insightful.
+* [Getting A Gig](https://github.com/cassidoo/getting-a-gig) - This is a guide for getting a gig in college as a tech major.
+* [Cracking The Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850) - Book by Gayle Laakman McDowell for studying algorithm and data structures problems for tech interviews
+* [Women Who Choose Computer Science – What Really Matters (Google Research)](https://static.googleusercontent.com/media/edu.google.com/en//pdfs/women-who-choose-what-really.pdf) - An insightful research article highlighting factors that may potentially contribute to the lack of women in CS / STEM in general
 
 ### State Farm Internships
-Obligatory, this is where it all started for me / that’s my face on the website lol
-
-## Events
+* Bloomington or Champaign-Urbana, IL locations only
 
 ### Google's Women Techmakers
 
@@ -94,15 +92,27 @@ Videos from past conferences:
 ## Majors
 
 * Computer Science
+* Software Engineering
 * Electrical Engineering
 * Mechanical Engineering
 * Security
+* Information Technology
 
 ## Courses
 
-If you have a degree already or are not ready to pursue a full degree in a technical field, you can supplement your education by taking online courses for experience and portfolio building, or as an introduction to a field you might be interested in.
+If you have a degree already or are not ready to pursue a university degree in a technical field, you can supplement your education by taking online courses for experience, "nano" degrees, portfolio building, or as an introduction to a field you might be interested in.
 
-* Codecademy - 
-* Udacity - 
+* [Codecademy](https://www.codecademy.com/catalog/subject/all) - A good immediate introduction to programming for people with zero experience.
+* [Udacity](https://www.udacity.com/nanodegree) - Structured courses that can be for both beginners to intermediate developers with the potential to earn a nano degree.
 * Udemy - 
 * Stanford Online - 
+
+## Coding Bootcamps
+
+Recommended for people who did not study Computer Science or an equivalent technical degree while in college. Many non-traditoinal students attend coding bootcamps and successfully land junior developer/engineering jobs in tech shortly after.
+
+## Links
+* [What happens when you type google.com into your browser's address box and press enter?](https://github.com/alex/what-happens-when)
+  * This article highlights the complexities of doing simple interactions with computers we take for granted.
+  * It highlights the several layers and complexities involved in technology and is reflected in the many collaborators with varying expertise that contributed to it.
+  * You will not understand ALL of it (and even people with four year CS degress likely will not either) because technology is such a broad field. Just enjoy reading and being exposed to the breadth of technical knowledge out there (frontend, web, backend, hardware)
