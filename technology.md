@@ -25,6 +25,7 @@ This is a work in progress document for people pursuing a career or interest in 
 
 > From 2014 to present, Women Techmakers is continually launching global scalable initiatives and piloting new programs to support and empower women in the industry.
 
+* [Women Techmakers](https://www.womentechmakers.com/)
 * [International Women's Day Summits](https://www.womentechmakers.com/iwd16)
 	* Hosted at Google offices in major cities (Chicago, New York, Seattle, and more), free to attend. Just apply.
 
